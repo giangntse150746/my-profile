@@ -1,12 +1,14 @@
 # Welcome to 'My Profile' project
 ## This is a webpage's repository which developed and powered by me - GiangNTSE150746.
 
-### You will find in this repository some information about me, .
-
+### You will find in this repository some information about me.
 * .gitignore file
 * README.md file
 * SECURITY.md file
 * ...
+
+## About me:
+### I am an undergraduate student at FPT University in Software Engineering.
 
 ## I'm currently focusing on:
 * Front-end: Angular, Bootstrap, ...
