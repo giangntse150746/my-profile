@@ -8,8 +8,10 @@
 * SECURITY.md file
 * ...
 
-## Change Log:
-* [date] (list changed)
+## I'm currently focusing on:
+* Front-end: Angular, Bootstrap, ...
+* Back-end: Java Servlet, ASP.NET 5 Core with MVC or EF
+* Platform: Google Cloud
 
 ### Contact me via:
 #### [Email](mailto:giangntse150746@fpt.edu.vn)
