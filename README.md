@@ -15,11 +15,11 @@
 * Back-end: Java Servlet, ASP.NET 5 Core with MVC or EF
 * Platform: Google Cloud
 
+[![GiangNTSE150746's GitHub stats](https://github-readme-stats.vercel.app/api?username=giangntse150746&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contact me via:
 #### [Email](mailto:giangntse150746@fpt.edu.vn)
 #### [Github](https://github.com/giangntse150746)
 #### [Facebook](fb.com/MashiMar.2001)
-
-[![GiangNTSE150746's GitHub stats](https://github-readme-stats.vercel.app/api?username=giangntse150746&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 #### ©2021 by GiangNTSE150746
