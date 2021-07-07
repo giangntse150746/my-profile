@@ -1,5 +1,5 @@
 # Welcome to 'My Profile' project
-## This is a webpage's repository which developed and powered by me - GiangNTSE150746.
+## This is a webpage's repository which is developed by me - GiangNTSE150746.
 
 ### You will find in this repository some information about me.
 * .gitignore file
@@ -10,7 +10,7 @@
 ## About me:
 ### I am an undergraduate student at FPT University in Software Engineering.
 
-## I'm currently focusing on:
+### I'm currently focusing on:
 * Front-end: Angular, Bootstrap, ...
 * Back-end: Java Servlet, ASP.NET 5 Core with MVC or EF
 * Platform: Google Cloud
