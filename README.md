@@ -10,7 +10,7 @@
 ## About me:
 ### I am an undergraduate student at FPT University in Software Engineering.
 
-### I'm currently focusing on:
+### I am currently focusing on:
 * Front-end: Angular, Bootstrap, ...
 * Back-end: Java Servlet, ASP.NET 5 Core with MVC or EF
 * Platform: Google Cloud
